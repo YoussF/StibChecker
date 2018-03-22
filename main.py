@@ -16,4 +16,4 @@ while True:
 		else:
 			print '[ ] '+stop.findtext('name')
 
-	sleep(30)
+	sleep(10)
